@@ -17,7 +17,7 @@ public class Ortalama {
         while (vize < 0 || vize > 100 || finall < 0 || finall > 100) {
             System.out.print("Lütfen Vize Notunu Tekrar Giriniz: ");
             vize = scanner.nextInt();
-            System.out.print("LütfenFinal Notunu Tekrar Giriniz: ");
+            System.out.print("Lütfen Final Notunu Tekrar Giriniz: ");
             finall = scanner.nextInt();
         }
 
